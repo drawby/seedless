@@ -304,6 +304,15 @@ p.micro,
   margin-bottom: 20px;
   margin-top: 2px;
 }
+
+p.micro2,
+.p.micro2, .micro2 {
+  font-size: 14px;
+  line-height: 1.22727273;
+  margin-bottom: 20px;
+  margin-top: 2px;
+}
+
 p:not(.hero) + p,
 .p:not(.hero) + p {
   margin-top: -20px;
