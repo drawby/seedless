@@ -152,6 +152,7 @@ a {
   text-decoration: none;
   -webkit-transition: 0.35s;
   transition: 0.35s;
+  color:#44C740;
 }
 a.underline {
   text-decoration: underline;
